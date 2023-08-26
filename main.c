@@ -9,6 +9,14 @@ Initial Security()
 {
  //Sample Code
 }
+second Security()
+{
+ //Sample Code
+}
+third Security()
+{
+ //Sample Code
+}
 
 
 
