@@ -19,12 +19,35 @@ third Security()
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 second Security()
+=======
+third  Security()
+{
+ //Sample Code
+}
+third Security()
+>>>>>>> Feature2
 {
  //Sample Code
 }
 
 
+<<<<<<< HEAD
 >>>>>>> Feature1
+=======
+
+
+
+>>>>>>> Feature2
+}
+testing merger  Security()
+{
+ //Sample Code   for testing
+}
+
+last testing updates()
+{
+//this my last updates
 }
