@@ -10,13 +10,4 @@ Initial Security()
  //Sample Code
 }
 
-<<<<<<< HEAD
-=======
-second Security()
-{
- //Sample Code
-}
-
-
->>>>>>> Feature1
 }
